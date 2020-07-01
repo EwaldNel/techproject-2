@@ -236,17 +236,17 @@ footer {
 
     .marketing,
     .search {
-        width: 50%;
+        width: 48%;
     }
 
     .travel,
     .map {
-        width: 50%;
+        width: 48%;
     }
 
     .photos,
     .calculator {
-        width: 50%;
+        width: 48%;
     }
 
     /* === Floated Columns ==== */
